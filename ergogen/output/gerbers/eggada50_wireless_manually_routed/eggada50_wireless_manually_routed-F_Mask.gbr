@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,9.0.2*%
-%TF.CreationDate,2025-06-19T22:30:11+08:00*%
+%TF.CreationDate,2025-06-21T10:35:40+08:00*%
 %TF.ProjectId,eggada50_wireless_manually_routed,65676761-6461-4353-905f-776972656c65,0.2*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 9.0.2) date 2025-06-19 22:30:11*
+G04 Created by KiCad (PCBNEW 9.0.2) date 2025-06-21 10:35:40*
 %MOMM*%
 %LPD*%
 G01*
@@ -763,6 +763,11 @@ D13*
 X107085000Y-78460000D03*
 X94158000Y-75920000D03*
 %TD*%
+D14*
+%TO.C,D48*%
+X187600000Y-45700000D03*
+X187600000Y-42400000D03*
+%TD*%
 D10*
 %TO.C,S45*%
 X170920000Y-43000000D03*
@@ -1100,10 +1105,5 @@ D11*
 X140540000Y-56920000D03*
 D10*
 X143080000Y-62000000D03*
-%TD*%
-D14*
-%TO.C,D48*%
-X187600000Y-45700000D03*
-X187600000Y-42400000D03*
 %TD*%
 M02*
